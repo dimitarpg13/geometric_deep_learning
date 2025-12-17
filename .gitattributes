@@ -2,3 +2,4 @@ books/algebraic_topology/A_Concise_Course_in_Algebraic_Topology_JP_May_UChicago.
 books/algebraic_topology/Algebraic_Topology_Allen_Hatcher_2001.pdf filter=lfs diff=lfs merge=lfs -text
 books/algebraic_topology/Algebraic_Topology_Tammo_tom_Dieck_2000.pdf filter=lfs diff=lfs merge=lfs -text
 books/algebraic_topology/An_Introduction_to_Algebraic_Topology_Rotman_1991.pdf filter=lfs diff=lfs merge=lfs -text
+articles/topological_neural_networks/Copresheaf_Topological_Neural_Networks-A_Generalized_Deep_Learning_Framework_Hajij_2025.pdf filter=lfs diff=lfs merge=lfs -text
