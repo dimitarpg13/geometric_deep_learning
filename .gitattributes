@@ -6,3 +6,4 @@ articles/topological_neural_networks/Copresheaf_Topological_Neural_Networks-A_Ge
 books/smooth_manifolds/lee_smooth_manifolds.pdf filter=lfs diff=lfs merge=lfs -text
 books/differential_geometry/Differential_Geometry_and_Lie_Groups_Computational_Perspective_Gallier_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/symmetry_groups/Symmetry_Representations_Invariants_Goodman_2000.pdf filter=lfs diff=lfs merge=lfs -text
+books/lie_groups/An_Introduction_to_Lie_Groups_and_Symplectic_Geometry_Bryant_lec_notes_2018.pdf filter=lfs diff=lfs merge=lfs -text
