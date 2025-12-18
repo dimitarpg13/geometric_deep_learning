@@ -4,3 +4,4 @@ books/algebraic_topology/Algebraic_Topology_Tammo_tom_Dieck_2000.pdf filter=lfs 
 books/algebraic_topology/An_Introduction_to_Algebraic_Topology_Rotman_1991.pdf filter=lfs diff=lfs merge=lfs -text
 articles/topological_neural_networks/Copresheaf_Topological_Neural_Networks-A_Generalized_Deep_Learning_Framework_Hajij_2025.pdf filter=lfs diff=lfs merge=lfs -text
 books/smooth_manifolds/lee_smooth_manifolds.pdf filter=lfs diff=lfs merge=lfs -text
+books/differential_geometry/Differential_Geometry_and_Lie_Groups_Computational_Perspective_Gallier_2025.pdf filter=lfs diff=lfs merge=lfs -text
