@@ -14,3 +14,4 @@ books/lie_groups/Lie_groups_and_algebraic_groups_Onishchik-Vinberg_1980.pdf filt
 articles/Geometric_Deep_Learning-Grids_Groups_Graphs_Geodesics_and_Gauges_Bronstein_2021.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Mathematical_Foundations_of_Geometric_Deep_Learning_Saez_de_Ocariz_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Topological_Methods_in_Machine_Learning-A_Tutorial_for_Practitioners_Coskunuzer_2024.pdf filter=lfs diff=lfs merge=lfs -text
+articles/converging_representations/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf filter=lfs diff=lfs merge=lfs -text
