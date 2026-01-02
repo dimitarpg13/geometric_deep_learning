@@ -4,7 +4,7 @@
 [A Physical Perspective on Graph Neural Networks, Prof. Michael Bronstein, DeepMind Professor of AI, EPFL AI Center, Feb 01, 2024 (youtube video)](https://www.youtube.com/watch?v=kEyLUY8A5zo)
 
 
-## Topological and Geometric analysis of DNNs
+## Topological and Geometric analysis of LLMs
 
 [Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis, C. Li et al, 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/CoT_topology/Understanding_Chain-of-Thought_in_Large_Language_Models_via_Topological_Data_Analysis_Li_2025.pdf)
 
@@ -13,6 +13,9 @@
 [The Geometry of Truth, Samuel Marks, Max Tegmark, Conference on Language Modeling, 2024](https://www.youtube.com/watch?v=x873VHafF40)
 
 
+## Topology and Geometry in Deep Sequences
+
+[Deep sequence models tend to memorize geometrically; it is unclear why.,  S. Noroozizadeh et al, 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/deep_sequences/Deep_sequence_models_tend_to_memorize_geometrically_it_is_unclear_why_Noroozizadeh_2025.pdf)
 
 ## Converging Representations
 
