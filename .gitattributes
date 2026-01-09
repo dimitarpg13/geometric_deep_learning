@@ -21,3 +21,4 @@ articles/low_dimensional_linear_embeddings/Automated_Global_Analysis_of_Experime
 articles/CoT_topology/Understanding_Chain-of-Thought_in_Large_Language_Models_via_Topological_Data_Analysis_Li_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/deep_sequences/Deep_sequence_models_tend_to_memorize_geometrically_it_is_unclear_why_Noroozizadeh_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/HC/mHC-Manifold-Constrained_Hyper-Connections_DeepSeekAI_2026.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Muon/Muon_is_Scalable_for_LLM_Training_Liu_2025.pdf filter=lfs diff=lfs merge=lfs -text
