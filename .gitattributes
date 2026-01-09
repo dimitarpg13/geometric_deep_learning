@@ -23,3 +23,4 @@ articles/deep_sequences/Deep_sequence_models_tend_to_memorize_geometrically_it_i
 articles/HC/mHC-Manifold-Constrained_Hyper-Connections_DeepSeekAI_2026.pdf filter=lfs diff=lfs merge=lfs -text
 articles/Muon/Muon_is_Scalable_for_LLM_Training_Liu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/SETOL/SETOL-A_Semi-Empirical_Theory_of_Deep_Learning_Martin_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/RG/A_Deep_Dive_into_the_Connections_Between_the_Renormalization_Group_and_Deep_Learning_in_the_Ising_Model_Taylor_thesis_2023.pdf filter=lfs diff=lfs merge=lfs -text
