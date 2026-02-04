@@ -24,3 +24,11 @@
 [Harnessing the Universal Geometry of Embeddings, Rishi Jha et al, Cornell U., 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/converging_representations/Harnessing_the_Universal_Geometry_of_Embeddings_Jha_2025.pdf)
 
 [Universally Converging Representations of Matter Across Scientific Foundation Models, S. Edamaka et al, 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/converging_representations/Universally_Converging_Representations_of_Matter_Across_Scientific_Foundation_Models_Edamadaka_2025.pdf)
+
+## In-Context Learning in LLMs
+
+[Context Structure Reshapes the Representational Geometry of Language Models, Eghbal A. Hosseini et al, 2026](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/in-context_learning/Context_Structure_Reshapes_the_Representational_Geometry_of_Language_Models_Hosseini_2026.pdf)
+
+## Optimal Transport
+
+[Riemannian Neural Optimal Transport, Alessandro Micheli et al, 2026](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/optimal_transport/Riemannian_Neural_Optimal_Transport_Micheli_2026.pdf)
