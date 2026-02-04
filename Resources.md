@@ -12,6 +12,10 @@
 
 [The Geometry of Truth, Samuel Marks, Max Tegmark, Conference on Language Modeling, 2024](https://www.youtube.com/watch?v=x873VHafF40)
 
+### In-Context Learning in LLMs
+
+[Context Structure Reshapes the Representational Geometry of Language Models, Eghbal A. Hosseini et al, 2026](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/in-context_learning/Context_Structure_Reshapes_the_Representational_Geometry_of_Language_Models_Hosseini_2026.pdf)
+
 
 ## Topology and Geometry in Deep Sequences
 
@@ -25,9 +29,6 @@
 
 [Universally Converging Representations of Matter Across Scientific Foundation Models, S. Edamaka et al, 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/converging_representations/Universally_Converging_Representations_of_Matter_Across_Scientific_Foundation_Models_Edamadaka_2025.pdf)
 
-## In-Context Learning in LLMs
-
-[Context Structure Reshapes the Representational Geometry of Language Models, Eghbal A. Hosseini et al, 2026](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/in-context_learning/Context_Structure_Reshapes_the_Representational_Geometry_of_Language_Models_Hosseini_2026.pdf)
 
 ## Optimal Transport
 
