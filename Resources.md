@@ -21,6 +21,10 @@
 
 [Deep sequence models tend to memorize geometrically; it is unclear why.,  S. Noroozizadeh et al, 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/deep_sequences/Deep_sequence_models_tend_to_memorize_geometrically_it_is_unclear_why_Noroozizadeh_2025.pdf)
 
+## Lie Groups
+
+
+
 ## Converging Representations
 
 [The Platonic Representation Hypothesis, M. Huh, B. Chung, T. Wang, P. Isolla, MIT, 2024](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/converging_representations/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
