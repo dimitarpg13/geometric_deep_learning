@@ -42,3 +42,7 @@
 ## Dynamical Systems and Renormalization Group
 
 [Lecture Notes on Dynamical Systems by Schlomo Sternberg, 2000](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/lecture_notes/Dynamical_Systems_Schlomo_Sternberg_2000.pdf)
+
+[A Deep Dive into the Connections Between the Renormalization Group and Deep Learning in the Ising Model, K. Taylor, Caltech, 2023](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/RG/A_Deep_Dive_into_the_Connections_Between_the_Renormalization_Group_and_Deep_Learning_in_the_Ising_Model_Taylor_thesis_2023.pdf)
+
+[Introduction to a Renormalization Group Method, R. Bauerschmidt, David C. Bridges, Gordon Slade, 2019](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/RG/bauerschmidt_brydges_slade_book.pdf)
