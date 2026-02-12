@@ -32,3 +32,4 @@ articles/information_geometry/The_Many_Faces_of_Information_Geometry_Nielsen_202
 articles/in-context_learning/Context_Structure_Reshapes_the_Representational_Geometry_of_Language_Models_Hosseini_2026.pdf filter=lfs diff=lfs merge=lfs -text
 articles/optimal_transport/Riemannian_Neural_Optimal_Transport_Micheli_2026.pdf filter=lfs diff=lfs merge=lfs -text
 lecture_notes/Lie_Groups_Course_C3.5_HT_2026_Nigel_Hitchin_2015.pdf filter=lfs diff=lfs merge=lfs -text
+lecture_notes/Dynamical_Systems_Schlomo_Sternberg_2000.pdf filter=lfs diff=lfs merge=lfs -text
