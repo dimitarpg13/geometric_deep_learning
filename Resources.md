@@ -39,6 +39,6 @@
 [Riemannian Neural Optimal Transport, Alessandro Micheli et al, 2026](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/optimal_transport/Riemannian_Neural_Optimal_Transport_Micheli_2026.pdf)
 
 
-## Dynamical Systems
+## Dynamical Systems and Renormalization Group
 
 [Lecture Notes on Dynamical Systems by Schlomo Sternberg, 2000](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/lecture_notes/Dynamical_Systems_Schlomo_Sternberg_2000.pdf)
