@@ -3,6 +3,7 @@
 
 [A Physical Perspective on Graph Neural Networks, Prof. Michael Bronstein, DeepMind Professor of AI, EPFL AI Center, Feb 01, 2024 (youtube video)](https://www.youtube.com/watch?v=kEyLUY8A5zo)
 
+[Understanding Data Through Persistence Diagrams, Patrick R. Nicolas, Dec 2025 (substack article)](https://patricknicolas.substack.com/p/understanding-data-through-persistence)
 
 ## Topological and Geometric analysis of LLMs
 
