@@ -5,6 +5,10 @@
 
 [Understanding Data Through Persistence Diagrams, Patrick R. Nicolas, Dec 2025 (substack article)](https://patricknicolas.substack.com/p/understanding-data-through-persistence)
 
+[Demystifying the Math of Geometric Deep Learning, Patrick R. Nicolas, Oct 2025 (substack article)](https://patricknicolas.substack.com/p/demystifying-the-math-of-geometric)
+
+[Exploring Simplicial Complexes for Deep Learning: Concepts to Code, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/exploring-simplicial-complexes-for)
+
 ## Topological and Geometric analysis of LLMs
 
 [Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis, C. Li et al, 2025](https://github.com/dimitarpg13/geometric_deep_learning/blob/main/articles/CoT_topology/Understanding_Chain-of-Thought_in_Large_Language_Models_via_Topological_Data_Analysis_Li_2025.pdf)
