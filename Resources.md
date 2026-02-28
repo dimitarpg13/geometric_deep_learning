@@ -3,11 +3,14 @@
 
 [A Physical Perspective on Graph Neural Networks, Prof. Michael Bronstein, DeepMind Professor of AI, EPFL AI Center, Feb 01, 2024 (youtube video)](https://www.youtube.com/watch?v=kEyLUY8A5zo)
 
-[Understanding Data Through Persistence Diagrams, Patrick R. Nicolas, Dec 2025 (substack article)](https://patricknicolas.substack.com/p/understanding-data-through-persistence)
+[From Nodes to Complexes: A Guide to Topological Deep Learning, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/from-nodes-to-complexes-a-guide-to)
+
+[Exploring Simplicial Complexes for Deep Learning: Concepts to Code, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/exploring-simplicial-complexes-for)
 
 [Demystifying the Math of Geometric Deep Learning, Patrick R. Nicolas, Oct 2025 (substack article)](https://patricknicolas.substack.com/p/demystifying-the-math-of-geometric)
 
-[Exploring Simplicial Complexes for Deep Learning: Concepts to Code, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/exploring-simplicial-complexes-for)
+[Understanding Data Through Persistence Diagrams, Patrick R. Nicolas, Dec 2025 (substack article)](https://patricknicolas.substack.com/p/understanding-data-through-persistence)
+
 
 ## Topological and Geometric analysis of LLMs
 
