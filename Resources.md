@@ -3,6 +3,10 @@
 
 [A Physical Perspective on Graph Neural Networks, Prof. Michael Bronstein, DeepMind Professor of AI, EPFL AI Center, Feb 01, 2024 (youtube video)](https://www.youtube.com/watch?v=kEyLUY8A5zo)
 
+[Introduction to Geometric Deep Learning, Patrick R. Nicolas, Jan 2025 (substack article)](https://patricknicolas.substack.com/p/introduction-to-geometric-deep-learning)
+
+[Demystifying Graph Sampling & Walk Methods, Patrick R. Nicolas, Mar 2025 (substack article)](https://patricknicolas.substack.com/p/demystifying-graph-sampling-and-walk)
+
 [From Nodes to Complexes: A Guide to Topological Deep Learning, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/from-nodes-to-complexes-a-guide-to)
 
 [Exploring Simplicial Complexes for Deep Learning: Concepts to Code, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/exploring-simplicial-complexes-for)
