@@ -7,15 +7,15 @@
 
 [Demystifying Graph Sampling & Walk Methods, Patrick R. Nicolas, Mar 2025 (substack article)](https://patricknicolas.substack.com/p/demystifying-graph-sampling-and-walk)
 
-[Plug & Play Training for Graph Convolutional Networks, Patrick R. Nicolas, Apr 2025](https://patricknicolas.substack.com/p/plug-and-play-training-for-graph)
+[Plug & Play Training for Graph Convolutional Networks, Patrick R. Nicolas, Apr 2025 (substack article)](https://patricknicolas.substack.com/p/plug-and-play-training-for-graph)
 
-[Riemannian Manifolds: Foundational Concepts, Patrick R. Nicolas, Feb 2025](https://patricknicolas.substack.com/p/riemannian-manifolds-1-foundation)
+[Riemannian Manifolds: Foundational Concepts, Patrick R. Nicolas, Feb 2025 (substack article)](https://patricknicolas.substack.com/p/riemannian-manifolds-1-foundation)
 
-[Riemannian Manifolds: Hands-on with Hypersphere, Patrick R. Nicolas, Feb 2025](https://patricknicolas.substack.com/p/riemannian-manifolds-2-hands-on-with)
+[Riemannian Manifolds: Hands-on with Hypersphere, Patrick R. Nicolas, Feb 2025 (substack article)](https://patricknicolas.substack.com/p/riemannian-manifolds-2-hands-on-with)
 
-[Uniform Manifold Approximation & Projection, Patrick R. Nicolas, Jan 2025](https://patricknicolas.substack.com/p/uniform-manifold-approximation-and)
+[Uniform Manifold Approximation & Projection, Patrick R. Nicolas, Jan 2025 (substack article)](https://patricknicolas.substack.com/p/uniform-manifold-approximation-and)
 
-[Taming Symmetry: A Dive into Lie Groups with Python, Patrick R. Nicolas, Mar 2025](https://patricknicolas.substack.com/p/practical-introduction-to-lie-groups)
+[Taming Symmetry: A Dive into Lie Groups with Python, Patrick R. Nicolas, Mar 2025 (substack article)](https://patricknicolas.substack.com/p/practical-introduction-to-lie-groups)
 
 [From Nodes to Complexes: A Guide to Topological Deep Learning, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/from-nodes-to-complexes-a-guide-to)
 
