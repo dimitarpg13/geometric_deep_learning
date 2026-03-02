@@ -15,6 +15,8 @@
 
 [Uniform Manifold Approximation & Projection, Patrick R. Nicolas, Jan 2025](https://patricknicolas.substack.com/p/uniform-manifold-approximation-and)
 
+[Taming Symmetry: A Dive into Lie Groups with Python, Patrick R. Nicolas, Mar 2025](https://patricknicolas.substack.com/p/practical-introduction-to-lie-groups)
+
 [From Nodes to Complexes: A Guide to Topological Deep Learning, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/from-nodes-to-complexes-a-guide-to)
 
 [Exploring Simplicial Complexes for Deep Learning: Concepts to Code, Patrick R. Nicolas, Aug 2025 (substack article)](https://patricknicolas.substack.com/p/exploring-simplicial-complexes-for)
