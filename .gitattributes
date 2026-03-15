@@ -40,3 +40,5 @@ books/Riemannian_geometry/Riemannian_Geometry_A_Modern_Introduction-Cambridge_St
 books/Riemannian_geometry/Riemannian_Manifolds_An_Introduction_to_Curvature_Lee_1991.pdf filter=lfs diff=lfs merge=lfs -text
 articles/causal_inference/Causal_Accumulation_on_Curved_Information_Manifolds_Leizerman_2026.pdf filter=lfs diff=lfs merge=lfs -text
 books/Geometry_Topology_and_Physics/Geometry_Topology_and_Physics_Nakahara_2003.pdf filter=lfs diff=lfs merge=lfs -text
+books/symmetry_groups/Symmetry_Groups_and_their_Applications_Miller_1972.pdf filter=lfs diff=lfs merge=lfs -text
+articles/information_geometry/Exploring_Information_Geometry-Recent_Advances_and_Connections_to_Topological_Field_Theory_Combe_2025.pdf filter=lfs diff=lfs merge=lfs -text
