@@ -718,8 +718,7 @@ where $T_a^R$ are the generators in representation $R$.
 The gauge-invariant kinetic term for the gauge field is
 
 $$
-S_{\text{YM}} = -\frac{1}{2 g^2} \int \mathrm{tr}(F_{\mu\nu} F^{\mu\nu})  d^4x
-  = -\frac{1}{4 g^2} \int F_{\mu\nu}^a F^{\mu\nu a}  d^4x.
+S_{\text{YM}} = -\frac{1}{2 g^2} \int \mathrm{tr}(F_{\mu\nu} F^{\mu\nu}) \, d^4x = -\frac{1}{4 g^2} \int F_{\mu\nu}^a F^{\mu\nu a} \, d^4x.
 $$
 
 The trace is over the Lie algebra indices (using the Killing form
@@ -834,8 +833,7 @@ where $\mathcal{P}$ denotes **path ordering** (necessary because $A_\mu$ at diff
 points do not commute in the non-abelian case):
 
 $$
-\mathcal{P} \exp\left( \int_0^1 A(t)  dt \right)
-  = \lim_{N \to \infty} [1 + A(t_1) \Delta t][1 + A(t_2) \Delta t] \cdots [1 + A(t_N) \Delta t].
+\mathcal{P} \exp\left( \int_0^1 A(t) \, dt \right) = \lim_{N \to \infty} [1 + A(t_1) \Delta t][1 + A(t_2) \Delta t] \cdots [1 + A(t_N) \Delta t].
 $$
 
 Under a gauge transformation $g$:
@@ -871,9 +869,7 @@ The cleanest physical manifestation of holonomy: an electron moving in a region
 with $B = 0$ but $A \neq 0$ (outside a solenoid) acquires a phase
 
 $$
-\varphi_{\text{AB}} = \frac{q}{\hbar} \oint_C A_\mu  dx^\mu
-  = \frac{q}{\hbar} \iint B \cdot dS
-  = \frac{q}{\hbar} \Phi_B.
+\varphi_{\text{AB}} = \frac{q}{\hbar} \oint_C A_\mu \, dx^\mu = \frac{q}{\hbar} \iint B \cdot dS = \frac{q}{\hbar} \Phi_B.
 $$
 
 This phase is physical (observable via interference) even though $E = B = 0$ along
@@ -897,8 +893,7 @@ For a $U(1)$ bundle over $S^2$, $c_1 \in \mathbb{Z}$ is the magnetic monopole ch
 **Second Chern class (for $SU(2)$ bundles):**
 
 $$
-c_2 = \frac{1}{8 \pi^2} \int_M \mathrm{tr}(F \wedge F)
-  = \frac{1}{8 \pi^2} \int_M \mathrm{tr}(F_{\mu\nu} F^{\mu\nu})  d^4x.
+c_2 = \frac{1}{8 \pi^2} \int_M \mathrm{tr}(F \wedge F) = \frac{1}{8 \pi^2} \int_M \mathrm{tr}(F_{\mu\nu} F^{\mu\nu}) \, d^4x.
 $$
 
 This is the **instanton number** (topological charge). For $SU(2)$ on $S^4$:
@@ -1132,8 +1127,7 @@ $$
 The **Berry curvature** (field strength):
 
 $$
-F^n_{\mu\nu}(R) = \partial_\mu A^n_\nu - \partial_\nu A^n_\mu
-  = i \left( \langle \partial_\mu n | \partial_\nu n \rangle - \langle \partial_\nu n | \partial_\mu n \rangle \right).
+F^n_{\mu\nu}(R) = \partial_\mu A^n_\nu - \partial_\nu A^n_\mu = i \left( \langle \partial_\mu n | \partial_\nu n \rangle - \langle \partial_\nu n | \partial_\mu n \rangle \right).
 $$
 
 ### 15.2 The Berry Phase as Holonomy
@@ -1263,9 +1257,7 @@ is NOT the gradient of any scalar potential $V: \mathbb{R}^d \to \mathbb{R}$.
 **Proof sketch.** The force Jacobian
 
 $$
-\left( \frac{\partial F}{\partial h} \right)_{ij}
-  = \sum_h \sum_j \left[ \mathrm{softmax} \cdot \frac{\partial (V_h h_j)}{\partial h_i}
-  + \left( \frac{\partial  \mathrm{softmax}}{\partial h_i} \right) \cdot V_h h_j \right].
+\left( \frac{\partial F}{\partial h} \right)_{ij} = \sum_h \sum_j \left[ \mathrm{softmax} \cdot \frac{\partial (V_h h_j)}{\partial h_i} + \left( \frac{\partial \mathrm{softmax}}{\partial h_i} \right) \cdot V_h h_j \right].
 $$
 
 The antisymmetric part of the Jacobian
