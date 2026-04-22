@@ -498,11 +498,8 @@ Expanding explicitly:
 
 $$
 \begin{aligned}
-{[D_\mu, D_\nu]} \psi
-&= [\partial_\mu + A_\mu, \partial_\nu + A_\nu] \psi \\
-&= (\partial_\mu \partial_\nu - \partial_\nu \partial_\mu)\psi
-   + (\partial_\mu A_\nu - \partial_\nu A_\mu)\psi
-   + A_\mu A_\nu \psi - A_\nu A_\mu \psi \\
+{[D_\mu, D_\nu]} \psi &= [\partial_\mu + A_\mu, \partial_\nu + A_\nu] \psi \\
+&= (\partial_\mu \partial_\nu - \partial_\nu \partial_\mu)\psi + (\partial_\mu A_\nu - \partial_\nu A_\mu)\psi + A_\mu A_\nu \psi - A_\nu A_\mu \psi \\
 &= 0 + (\partial_\mu A_\nu - \partial_\nu A_\mu)\psi + [A_\mu, A_\nu] \psi.
 \end{aligned}
 $$
@@ -740,11 +737,8 @@ $\mathrm{tr}(T_a T_b) = \delta_{ab} / 2$). This action is:
 $$
 \begin{aligned}
 S &= S_{\text{YM}} + S_{\text{matter}}, \\
-S_{\text{matter}} &= \int \bar\psi (i\gamma^\mu D_\mu - m)\psi  d^4x
-  \qquad \text{(Dirac fermions in representation } R\text{)} \\
-&= \int \bar\psi (i\gamma^\mu \partial_\mu - m)\psi  d^4x
-  + g \int \bar\psi \gamma^\mu A_\mu^a T_a^R \psi  d^4x
-  \qquad \text{(minimal coupling).}
+S_{\text{matter}} &= \int \bar\psi (i\gamma^\mu D_\mu - m)\psi \, d^4x \qquad \text{(Dirac fermions in representation } R\text{)} \\
+&= \int \bar\psi (i\gamma^\mu \partial_\mu - m)\psi \, d^4x + g \int \bar\psi \gamma^\mu A_\mu^a T_a^R \psi \, d^4x \qquad \text{(minimal coupling).}
 \end{aligned}
 $$
 
@@ -1096,19 +1090,11 @@ Format: ($SU(3)_c$ rep, $SU(2)_L$ rep, $U(1)_Y$ charge).
 $$
 \begin{aligned}
 \mathcal{L}_{\text{SM}} &= \mathcal{L}_{\text{gauge}} + \mathcal{L}_{\text{fermion}} + \mathcal{L}_{\text{Higgs}} + \mathcal{L}_{\text{Yukawa}}, \\[4pt]
-\mathcal{L}_{\text{gauge}} &= -\frac{1}{4} B_{\mu\nu} B^{\mu\nu}
-  - \frac{1}{4} W^a_{\mu\nu} W^{a\mu\nu}
-  - \frac{1}{4} G^a_{\mu\nu} G^{a\mu\nu}, \\[4pt]
-\mathcal{L}_{\text{fermion}} &= \sum_{\text{generations}} [
-  \bar q_L  i\gamma^\mu D_\mu  q_L
-  + \bar u_R  i\gamma^\mu D_\mu  u_R
-  + \bar d_R  i\gamma^\mu D_\mu  d_R \\
-  &\qquad\qquad + \bar\ell_L  i\gamma^\mu D_\mu  \ell_L
-  + \bar e_R  i\gamma^\mu D_\mu  e_R ], \\[4pt]
+\mathcal{L}_{\text{gauge}} &= -\frac{1}{4} B_{\mu\nu} B^{\mu\nu} - \frac{1}{4} W^a_{\mu\nu} W^{a\mu\nu} - \frac{1}{4} G^a_{\mu\nu} G^{a\mu\nu}, \\[4pt]
+\mathcal{L}_{\text{fermion}} &= \sum_{\text{generations}} [\, \bar q_L i\gamma^\mu D_\mu q_L + \bar u_R i\gamma^\mu D_\mu u_R + \bar d_R i\gamma^\mu D_\mu d_R \\
+&\qquad\qquad + \bar\ell_L i\gamma^\mu D_\mu \ell_L + \bar e_R i\gamma^\mu D_\mu e_R \,], \\[4pt]
 \mathcal{L}_{\text{Higgs}} &= |D_\mu H|^2 - \lambda (H^\dagger H - v^2 / 2)^2, \\[4pt]
-\mathcal{L}_{\text{Yukawa}} &= -y_u  \bar q_L \tilde H u_R
-  - y_d  \bar q_L H d_R
-  - y_e  \bar\ell_L H e_R + \text{h.c.}
+\mathcal{L}_{\text{Yukawa}} &= -y_u \bar q_L \tilde H u_R - y_d \bar q_L H d_R - y_e \bar\ell_L H e_R + \text{h.c.}
 \end{aligned}
 $$
 
@@ -1440,7 +1426,7 @@ $$
 & \text{Topological invariants (Chern classes)} && \text{(winding numbers, instanton charge)} \\
 & \quad \downarrow \text{ observed as} \\
 & \text{Physical forces, Berry phases,} && \text{(electromagnetism, weak force,} \\
-& \text{holonomy effects, confinement} && \text{ strong force, quantum Hall, \ldots)}
+& \text{holonomy effects, confinement} && \text{ strong force, quantum Hall, ...)}
 \end{aligned}
 $$
 
