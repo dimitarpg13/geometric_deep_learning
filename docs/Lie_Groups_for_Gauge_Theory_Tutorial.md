@@ -334,7 +334,7 @@ U(1) = \{e^{i\theta} : \theta \in [0, 2\pi)\} \quad \text{— } 1 \times 1 \text
 $$
 
 $$
-SU(2) = \left\{ \begin{pmatrix} a & -\bar{b} \\ b & \bar{a} \end{pmatrix} : a, b \in \mathbb{C},\ |a|^2 + |b|^2 = 1 \right\} \quad \text{— } \dim = 3
+SU(2) = \lbrace \begin{pmatrix} a & -\bar{b} \\ b & \bar{a} \end{pmatrix} : a, b \in \mathbb{C}, |a|^2 + |b|^2 = 1 \rbrace \quad \text{— } \dim = 3
 $$
 
 $$
@@ -841,7 +841,7 @@ are particularly tractable.
 
 ### 4.3 The Lie Algebras of the Classical Groups
 
-**$\mathfrak{gl}(n) = T_I GL(n)$:**
+**$\mathfrak{gl}(n) = T_I GL(n)$**:
 All $n \times n$ matrices (the identity is open in $GL(n)$, so the tangent space is the full
 matrix space):
 
@@ -853,7 +853,7 @@ $$
 \mathfrak{gl}(n, \mathbb{C}) = \mathrm{Mat}(n \times n, \mathbb{C})
 $$
 
-**$\mathfrak{sl}(n) = T_I SL(n)$:**
+**$\mathfrak{sl}(n) = T_I SL(n)$**:
 The condition $\det(e^{tX}) = 1$ differentiates to $\mathrm{tr}(X) = 0$:
 
 $$
@@ -862,7 +862,7 @@ $$
 
 Proof: $\left.\frac{d}{dt}\right|_{t=0} \det(e^{tX}) = \mathrm{tr}(X) \cdot \det(I) = \mathrm{tr}(X)$.
 
-**$\mathfrak{o}(n) = T_I O(n)$:**
+**$\mathfrak{o}(n) = T_I O(n)$**:
 The condition $(e^{tX})^T e^{tX} = I$ differentiates to $X^T + X = 0$:
 
 $$
@@ -871,14 +871,14 @@ $$
 
 Dimension: $n(n-1)/2$ $\checkmark$
 
-**$\mathfrak{u}(n) = T_I U(n)$:**
+**$\mathfrak{u}(n) = T_I U(n)$**:
 The condition $(e^{tX})^{\dagger} e^{tX} = I$ differentiates to $X^{\dagger} + X = 0$:
 
 $$
 \mathfrak{u}(n) = \{X \in \mathrm{Mat}(n \times n, \mathbb{C}) : X^{\dagger} = -X\} \quad \text{(skew-Hermitian matrices)}
 $$
 
-**$\mathfrak{su}(n) = T_I SU(n)$:**
+**$\mathfrak{su}(n) = T_I SU(n)$**:
 Both traceless AND skew-Hermitian:
 
 $$
@@ -1193,7 +1193,7 @@ $S^2 \times S^1$) is the reason the monopole exists and its charge is quantized.
 ### 8.1 The Matrix Realization
 
 $$
-SU(2) = \left\{ \begin{pmatrix} a & -\bar{b} \\ b & \bar{a} \end{pmatrix} : a, b \in \mathbb{C},\ |a|^2 + |b|^2 = 1 \right\}
+SU(2) = \lbrace \begin{pmatrix} a & -\bar{b} \\ b & \bar{a} \end{pmatrix} : a, b \in \mathbb{C}, |a|^2 + |b|^2 = 1 \rbrace
 $$
 
 Parametrize with $a = x_0 + ix_3$, $b = x_2 + ix_1$, where $x_0^2 + x_1^2 + x_2^2 + x_3^2 = 1$:
@@ -1220,8 +1220,7 @@ $$
 ### 8.2 The Lie Algebra $\mathfrak{su}(2)$
 
 $$
-\mathfrak{su}(2) = \{X \in \mathrm{Mat}(2 \times 2, \mathbb{C}) : X^{\dagger} = -X,\ \mathrm{tr} X = 0\}
-      = \left\{ \begin{pmatrix} ia & -\bar{b} + ic \\ -\bar{b} - ic & -ia \end{pmatrix} : a, b, c \in \mathbb{R} \right\}
+\mathfrak{su}(2) = \lbrace X \in \mathrm{Mat}(2 \times 2, \mathbb{C}) : X^{\dagger} = -X,\ \mathrm{tr} X = 0 \rbrace = \lbrace \begin{pmatrix} ia & -\bar{b} + ic \\ -\bar{b} - ic & -ia \end{pmatrix} : a, b, c \in \mathbb{R} \rbrace
 $$
 
 Standard basis (using $i/2$ times Pauli matrices):
@@ -1696,7 +1695,7 @@ closed subset that is also a subgroup — the smooth structure comes for free.
 Examples of closed subgroups:
 
 $$
-U(1) \subset SU(2): \quad U(1) = \left\{ \begin{pmatrix} e^{i\theta} & 0 \\ 0 & e^{-i\theta} \end{pmatrix} : \theta \in \mathbb{R} \right\} \text{ (diagonal matrices)}
+U(1) \subset SU(2): \quad U(1) = \lbrace \begin{pmatrix} e^{i\theta} & 0 \\ 0 & e^{-i\theta} \end{pmatrix} : \theta \in \mathbb{R} \rbrace \text{ (diagonal matrices)}
 $$
 
 $$
@@ -2105,7 +2104,7 @@ is simply irrelevant because the problem is structural, not quantitative.
 
 ### Key Formulas
 
-**$U(1)$:**
+**$U(1)$**:
 
 $$
 \text{Group:} \quad e^{i\theta} \cdot e^{i\varphi} = e^{i(\theta + \varphi)}
@@ -2127,14 +2126,9 @@ $$
 \text{Cover:} \quad \mathbb{R} \to U(1) = \mathbb{R}/2\pi\mathbb{Z}
 $$
 
-**$SU(2)$:**
+**$SU(2)$**:
 
-$$
-\text{Group:} \quad
-\begin{pmatrix} a & -\bar{b} \\ b & \bar{a} \end{pmatrix}
-\begin{pmatrix} c & -\bar{d} \\ d & \bar{c} \end{pmatrix}
-= \begin{pmatrix} ac - \bar{b} d & -a\bar{d} - \bar{b}\bar{c} \\ bc + \bar{a} d & -b\bar{d} + \bar{a}\bar{c} \end{pmatrix}
-$$
+$$\text{Group:} \quad \begin{pmatrix} a & -\bar{b} \\ b & \bar{a} \end{pmatrix} \begin{pmatrix} c & -\bar{d} \\ d & \bar{c} \end{pmatrix} = \begin{pmatrix} ac - \bar{b} d & -a\bar{d} - \bar{b}\bar{c} \\ bc + \bar{a} d & -b\bar{d} + \bar{a}\bar{c} \end{pmatrix}$$
 
 $$
 \text{Algebra:} \quad [\sigma_a/2, \sigma_b/2] = i \epsilon_{abc} \sigma_c/2
@@ -2152,7 +2146,7 @@ $$
 \text{Cover:} \quad SU(2) \to SO(3) = SU(2)/\mathbb{Z}_2 \quad (2{:}1)
 $$
 
-**$SU(3)$:**
+**$SU(3)$**:
 
 $$
 \text{Generators:} \quad T_a = \lambda_a/2, \quad a = 1, \ldots, 8
